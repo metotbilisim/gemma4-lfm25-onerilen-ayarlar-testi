@@ -1,0 +1,61 @@
+{
+  "_kural": "Kullanıcı kuralı (2026-10-24): örnekleme ayarları yalnızca modelin önerdiği değerlerdir. Kayıtta olmayan modelle koşu başlamaz; değer tahmin edilmez, model kartından kaynağıyla eklenir. 'ayar: paket' = Ollama paketinin kendi parametreleri kullanılır (koşucu örnekleme göndermez) ve bunların model kartıyla aynı olduğu doğrulanmıştır. 'ayar: kart' = aşağıdaki değerler istekle gönderilir.",
+  "_baglam": "num_ctx = 131072 (kullanıcı kararı: bu makinenin, RTX 3090 24 GB, taşıyabildiği üst sınır). Modelin desteklediği sınır daha düşükse o kullanılır.",
+  "modeller": {
+    "gemma4:26b": {
+      "ayar": "paket",
+      "kaynak": "Google Gemma 4 model kartı: temperature=1.0, top_p=0.95, top_k=64 (https://ai.google.dev/gemma/docs/core/model_card_4). Ollama paketi aynı değerleri taşıyor (2026-10-24 doğrulandı).",
+      "beklenen": {
+        "temperature": 1.0,
+        "top_p": 0.95,
+        "top_k": 64
+      }
+    },
+    "gemma4-nomtp:latest": {
+      "ayar": "paket",
+      "kaynak": "gemma4:26b ile aynı ağırlıklar, yalnızca DRAFT satırı çıkarılmış; parametreler aynı: temperature 1, top_p 0.95, top_k 64 (Google Gemma 4 model kartı).",
+      "beklenen": {
+        "temperature": 1.0,
+        "top_p": 0.95,
+        "top_k": 64
+      }
+    },
+    "gemma4:31b-it-q4_K_M": {
+      "ayar": "paket",
+      "kaynak": "Google Gemma 4 model kartı tüm Gemma 4 modelleri için temperature=1.0, top_p=0.95, top_k=64; paket aynı.",
+      "beklenen": {
+        "temperature": 1.0,
+        "top_p": 0.95,
+        "top_k": 64
+      }
+    },
+    "gemma4:e4b": {
+      "ayar": "paket",
+      "kaynak": "Google Gemma 4 model kartı tüm Gemma 4 modelleri için temperature=1.0, top_p=0.95, top_k=64; paket aynı.",
+      "beklenen": {
+        "temperature": 1.0,
+        "top_p": 0.95,
+        "top_k": 64
+      }
+    },
+    "gemma4:e2b": {
+      "ayar": "paket",
+      "kaynak": "Google Gemma 4 model kartı tüm Gemma 4 modelleri için temperature=1.0, top_p=0.95, top_k=64; paket aynı.",
+      "beklenen": {
+        "temperature": 1.0,
+        "top_p": 0.95,
+        "top_k": 64
+      }
+    },
+    "richardyoung/lfm2.5-24b-a2b:latest": {
+      "ayar": "paket",
+      "kaynak": "Liquid AI LFM2.5-24B-A2B model kartı: temperature 0.1, top_k 50, repetition_penalty 1.05; top_p belirtilmemiş (https://huggingface.co/LiquidAI/LFM2.5-24B-A2B). Ollama paketi aynı değerleri taşıyor (repeat_penalty 1.05). Bağlam sınırı 131.072.",
+      "beklenen": {
+        "temperature": 0.1,
+        "top_k": 50,
+        "repeat_penalty": 1.05
+      }
+    }
+  },
+  "_beklenen": "'beklenen' = model kartında belirtilen anahtarlar; paket değerleri bunlarla karşılaştırılır, farkta koşu durur. Kartta olmayan anahtar (ör. LFM top_p) denetlenmez, etkin paket değeri kayda yazılır."
+}

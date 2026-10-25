@@ -1,0 +1,24 @@
+{
+  "tarih": "2026-10-25T03:56:02",
+  "ollama": "0.40.6",
+  "modeller": [
+    {
+      "model": "gemma4:26b",
+      "istenen_num_ctx": 131072,
+      "etkin_baglam": 131072,
+      "model_siniri": 262144,
+      "gpu_yuzde": 100.0,
+      "ayar": "Google Gemma 4 model kartı: temperature=1.0, top_p=0.95, top_k=64 (https://ai.google.dev/gemma/docs/core/model_card_4). Ollama paketi aynı değerleri taşıyor (2026-10-24 doğrulandı).",
+      "hata": null
+    },
+    {
+      "model": "richardyoung/lfm2.5-24b-a2b:latest",
+      "istenen_num_ctx": 131072,
+      "etkin_baglam": 131072,
+      "model_siniri": 131072,
+      "gpu_yuzde": 100.0,
+      "ayar": "Liquid AI LFM2.5-24B-A2B model kartı: temperature 0.1, top_k 50, repetition_penalty 1.05; top_p belirtilmemiş (https://huggingface.co/LiquidAI/LFM2.5-24B-A2B). Ollama paketi aynı değerleri taşıyor (repeat_penalty 1.05). Bağlam sınırı 131.072.",
+      "hata": null
+    }
+  ]
+}

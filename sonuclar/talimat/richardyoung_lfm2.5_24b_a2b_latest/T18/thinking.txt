@@ -1,0 +1,97 @@
+We need to produce a JSON object that includes at least the following keys: "ürün" (product name, text), "adet" (quantity, number), "tutar" (total amount, number). We can also add other keys if we want.
+
+The user says: "Siparişi JSON olarak yaz: 12 paket A4 kâğıt, toplam tutar 1450 TL. Cevabında yalnızca geçerli bir JSON nesnesi ver. Nesnede en az şu anahtarlar bulunsun: urun (metin), adet (sayı), tutar (sayı). İstersen başka anahtarlar da ekleyebilirsin. Ürün adı, adet ve tutar JSON’da geçsin."
+
+Thus we need to produce a JSON object representing the order: product name "A4 Kâğıt Paket", quantity 12, total price 1450 (presumably in TL). The currency is TL; maybe we can include "valuta": "TL". But not required.
+
+We must ensure that the JSON is valid. Keys must be strings. Values: product name string, quantity number, total amount number. Also we could add "paket" or "satış" etc.
+
+The user wants only a valid JSON object; no extra text. So output just JSON.
+
+Thus something like:
+
+{
+  "ürün": "A4 Kâğıt Paket",
+  "adet": 12,
+  "tutar": 1450,
+  "valuta": "TL",
+  "satış_tarihi": "2025-10-01"
+}
+
+But we need to ensure that the keys are correct Turkish: "ürün", "adet", "tutar". The user said "Nesnede en az şu anahtarlar bulunsun: urun (metin), adet (sayı), tutar (sayı)." So at minimum those three must be present. Additional keys are allowed.
+
+Thus produce JSON:
+
+{
+  "ürün": "A4 Kâğıt Paket",
+  "adet": 12,
+  "tutar": 1450,
+  "valuta": "TL"
+}
+
+But maybe we need to include "paket" as a key? Not required. The product name is "A4 Kâğıt". But the user said "12 paket A4 kâğıt". So product name could be "A4 Kâğıt Paket". That's fine.
+
+Thus final JSON:
+
+{
+  "ürün": "A4 Kâğıt Paket",
+  "adet": 12,
+  "tutar": 1450,
+  "valuta": "TL"
+}
+
+Check validity: All keys are strings. Values: string, number, number, string. Good.
+
+But maybe we need to include "paket" count? Not needed.
+
+Thus answer: just JSON.
+
+Potential issues: The user wrote "Siparişi JSON olarak yaz". So the JSON should represent the order. Could also include "toplam" but not required.
+
+We must ensure that the JSON is valid and no trailing commas.
+
+Thus final output:
+
+{
+  "ürün": "A4 Kâğıt Paket",
+  "adet": 12,
+  "tutar": 1450,
+  "valuta": "TL"
+}
+
+But maybe we need to include "toplam" as separate? Not needed.
+
+Check that the keys are correct: "ürün" includes a special character ü. JSON supports Unicode characters, so it's fine.
+
+Thus final answer: just JSON.
+
+Potential nuance: The user said "Cevabında yalnızca geçerli bir JSON nesnesi ver." So we must not include any extra text. So output only the JSON.
+
+Thus final.
+
+But let's think about if we need to embed the price per unit? Not required.
+
+We could also add "birim_fiyat": 120.833? But not needed.
+
+Better keep it simple.
+
+Thus answer:
+
+{
+  "ürün": "A4 Kâğıt Paket",
+  "adet": 12,
+  "tutar": 1450,
+  "valuta": "TL"
+}
+
+Check that the JSON is valid: Yes.
+
+Potential issues: The user might expect "adet" as integer, "tutar" as number. Good.
+
+Thus final.
+
+But also note that the product name includes Turkish characters; it's okay.
+
+Thus answer.
+
+Now, I'll produce the final JSON.

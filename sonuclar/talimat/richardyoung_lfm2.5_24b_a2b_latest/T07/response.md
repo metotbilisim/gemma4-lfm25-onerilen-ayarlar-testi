@@ -1,0 +1,3 @@
+KD-38 model kahve değirmeni, 38 mm çelik öğütücü sistemle hızlı ve taze kahve hazırlar. Tasarımda sağlam ve sessiz çalışma özellikleri ön planda tutulmuş, bu sayede sabah erken saatlerde bile ortamı rahatsız etmeden kahve bulabilirsiniz.
+
+sessiz çalışması, hem kullanıcıya hem de evin diğer üyelerine konfor sağlar. Ürün, güçlü bir motor ve 2 yıl uzun süreli garanti ile uzun ömürlü olmayı vaat eder. sessiz ve temiz bir deneyim sunan KD-38, modern yaşamın ihtiyaçlarını karşılamak için ideal bir seçimdir.

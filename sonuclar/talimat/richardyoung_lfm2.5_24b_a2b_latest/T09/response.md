@@ -1,0 +1,1 @@
+Sayın Mutlu Gıda çalışanları, bu bayram döneminde tatil planlaması hakkında bilgi vermek istiyoruz. Tatil 28 Mayıs’ta başlayacak ve tüm ekip için izin verilmiştir. İşlerimiz 2 Haziran’da normal işbaşıyla devam edecek. İyi bayramlar dileriz.

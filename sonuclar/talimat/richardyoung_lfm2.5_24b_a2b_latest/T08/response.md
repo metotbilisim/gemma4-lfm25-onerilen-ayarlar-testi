@@ -1,0 +1,1 @@
+"Defne Atölyesi'nin doğal sabunu, %100 bitkisel içerikle 120 gram ağırlıkta cildinizi nazikçe temizler, nemi korur ve yumuşak bir sağlıklı güzel his verir; doğal kökenli yağlar ve esanslar ile parmaklarınızı rahatlatır."

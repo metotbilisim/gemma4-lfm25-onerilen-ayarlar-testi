@@ -1,0 +1,72 @@
+We need to write a LinkedIn post in Turkish (since the prompt is Turkish). It should be about Pano Yazılım looking for new friends (i.e., new team members?) Actually "Pano Yazılım'ın ekibine yeni arkadaşlar aradığını anlatan bir LinkedIn paylaşımı". So it's a post saying that Pano Software is looking for new teammates/friends to join the team. Must be exactly 3 paragraphs, with blank lines between them. The last character of the post must be a question mark "?". Also include the info: Pano Yazılım, İstanbul ofisi, 4 yazılım geliştirici aranıyor.
+
+We need to ensure exactly 3 paragraphs. Paragraphs separated by a blank line (i.e., an empty line). So structure:
+
+Paragraph 1: some sentences.
+Paragraph 2: some sentences.
+Paragraph 3: ends with a question mark.
+
+We must include the required info somewhere: Pano Yazılım, İstanbul ofisi, 4 yazılım geliştirici aranıyor.
+
+Make sure the final character is "?". So the last line ends with a question mark.
+
+We need to ensure no extra characters after the question mark. Also ensure the post ends with "?" not a period.
+
+Paragraph count: exactly 3 paragraphs. Paragraphs can be multiple sentences.
+
+Let's draft:
+
+Paragraph 1: "Pano Yazılım, yenilikçi yazılım çözümleriyle sektörde yenilikler yaratıyor. İstanbul ofisimizde yeni bir ekip kurmak ve deneyimli yeteneklerle tanışmak için elimiz bekliyor."
+
+Paragraph 2: "Şu anda 4 yazılım geliştirici pozisyonu açık ve harekete geçmek istiyorsanız, bizimle iletişime geçmeyi unutmayın. Takım kültürümüzde iş birliği ve yaratıcılığı ön planda tutuyoruz."
+
+Paragraph 3: "Neden mi Pano Yazılım’da yeni bir yolculuk başlatmak istiyorsunuz? Sorularınızı ve ilgi alanlarınızı paylaşarak birlikte gelişelim!"
+
+But need to end with a question mark. The last character must be "?". So the third paragraph must end with a question mark, not a period. So we need to phrase it as a question ending with "?". For example: "Neden mi Pano Yazılım’da yeni bir yolculuk başlatmak istiyorsunuz?" That ends with "?". But we also need to maybe include more content before that, but final character must be "?". So third paragraph could be a single sentence ending with "?". Or multiple sentences, but the final character of the whole post is "?". If we have multiple sentences, the last one ends with "?". That's okay.
+
+Thus third paragraph: "Neden mi Pano Yazılım’da yeni bir yolculuk başlatmak istiyorsunuz? Sorularınızı bizimle paylaşın, birlikte gelecek yolumuzu şekillendirelim."
+
+But then the final character is "?" after the first sentence? Actually the final character of the post would be the last character of the last sentence. If we have two sentences, the second ends with "?". So final char is "?". Good.
+
+But need to ensure the third paragraph ends with "?". So we can have: "Neden mi Pano Yazılım’da yeni bir yolculuk başlatmak istiyorsunuz? Sorularınızı bizimle paylaşın, birlikte gelecek yolumuzu şekillendirelim?" That ends with "?". Actually that would be two question marks? The second sentence ends with "?". So final char is "?". Good.
+
+But we need to ensure the post ends with a question mark, not a period. So okay.
+
+Now check paragraph count: 3 paragraphs separated by blank lines.
+
+Paragraph 1: includes Pano Yazılım and Istanbul office? We have "İstanbul ofisimizde". Good.
+
+Paragraph 2: includes 4 yazılım geliştirici aranıyor. We need to explicitly state that 4 positions are open. So include "4 yazılım geliştirici pozisyonu açık". Good.
+
+Paragraph 3: ends with question mark.
+
+Now ensure we have exactly 3 paragraphs. No extra blank lines at start or end. Provide blank line between paragraphs.
+
+Let's write:
+
+Paragraph 1: "Pano Yazılım, yenilikçi yazılım çözümleriyle sektörde yenilikler yaratıyor. İstanbul ofisimizde yeni bir ekip kurmak ve deneyimli yeteneklerle tanışmak için elimiz bekliyor."
+
+Paragraph 2: "Şu anda 4 yazılım geliştirici pozisyonu açık ve harekete geçmek isteyen adayları bekliyoruz. Takım kültürümzde iş birliği ve yaratıcılığı ön planda tutuyoruz, bu yüzden birlikte çalışmak isteyenler için ideal bir ortam sunuyoruz."
+
+Paragraph 3: "Neden mi Pano Yazılım’da yeni bir yolculuk başlatmak istiyorsunuz? Sorularınızı bizimle paylaşın, birlikte gelecek yolumuzu şekillendirelim?"
+
+Check final character: The last sentence ends with "?". Yes.
+
+Now verify required info: Pano Yazılım appears. İstanbul ofisi appears (İstanbul ofisimizde). 4 yazılım geliştirici aranıyor appears (4 yazılım geliştirici pozisyonu açık). Good.
+
+Paragraph count: 3.
+
+Spacing: blank line between paragraphs.
+
+Make sure no extra newline after final line? Usually okay but final char is "?" then newline maybe not considered. We'll just end with "?".
+
+Thus final output:
+
+Paragraph1 text
+(blank line)
+Paragraph2 text
+(blank line)
+Paragraph3 text ending with ?
+
+Let's write it.
+

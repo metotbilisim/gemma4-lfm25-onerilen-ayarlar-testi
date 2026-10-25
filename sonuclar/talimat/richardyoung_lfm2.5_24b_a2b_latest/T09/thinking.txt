@@ -1,0 +1,65 @@
+The user asks: "Mutlu Gıda çalışanlarına gönderilecek bayram tatili duyurusunu yaz. Duyuru 4 ile 5 cümle arasında olsun ve “İyi bayramlar dileriz.” ifadesiyle bitsin. Şu bilgiler duyuruda geçsin: tatil 28 Mayıs’ta başlıyor, 2 Haziran’da işbaşı yapılacak."
+
+We need to produce a holiday notice (bayram tatili duyurusu) addressed to Mutlu Gıda employees. The notice must be between 4 and 5 sentences inclusive. So we need either 4 or 5 sentences. Must end with "İyi bayramlar dileriz." The content must include the info: holiday starts on May 28, work resumes on June 2.
+
+We need to ensure the final sentence ends with "İyi bayramlar dileriz." Possibly we can have 4 sentences: first three sentences about the holiday, then the last sentence is "İyi bayramlar dileriz." But that would be 4 sentences total. However the requirement says "duyuru 4 ile 5 cümle arasında olsun". So 4 or 5 sentences. The final sentence must contain "İyi bayramlar dileriz." It could be the last sentence. If we have 4 sentences, the last one is "İyi bayramlar dileriz." That satisfies.
+
+But we need to ensure that the notice includes the info: holiday starts May 28, work resumes June 2. So we need to embed those details in the earlier sentences.
+
+Potential text:
+
+1. "Mutlu Gıda ailesi, bu bayram döneminde tatil planlaması yaptı." (maybe not needed)
+2. "Tatil 28 Mayıs’ta başlayıp, tüm çalışanlar için izin verilmiştir."
+3. "İşlerimiz 2 Haziran’da normal şekilde işbaşı yapılacak."
+4. "İyi bayramlar dileriz."
+
+That's 4 sentences. However we need to ensure the notice is about holiday notice for employees. The first sentence could be greeting: "Sayın çalışanlar, Mutlu Gıda ailesi bayram tatili duyurusunu paylaşmak ister." That's a sentence. Then second: "Tatil 28 Mayıs’ta başlayacak." Third: "2 Haziran’da işbaşı yapılacak." Fourth: "İyi bayramlar dileriz."
+
+But we need to embed the info that the holiday starts on May 28 and work resumes June 2. So we have that.
+
+Thus:
+
+Sentence 1: "Sayın Mutlu Gıda çalışanları, bu bayram döneminde tatil planlaması hakkında bilgi vermek istiyoruz." (Greeting)
+Sentence 2: "Tatil 28 Mayıs’ta başlayacak ve tüm ekip için izin verilmiştir." (includes start date)
+Sentence 3: "İşlerimiz 2 Haziran’da normal işbaşıyla devam edecek." (includes resume date)
+Sentence 4: "İyi bayramlar dileriz."
+
+That's 4 sentences. The final sentence ends with "İyi bayramlar dileriz." Good.
+
+Check the requirement: "duyuru 4 ile 5 cümle arasında olsun". We have 4 sentences, okay.
+
+We need to ensure that the phrase "İyi bayramlar dileriz." appears exactly as is. It does.
+
+Thus final answer:
+
+"Sayın Mutlu Gıda çalışanları, bu bayram döneminde tatil planlaması hakkında bilgi vermek istiyoruz. Tatil 28 Mayıs’ta başlayacak ve tüm ekip için izin verilmiştir. İşlerimiz 2 Haziran’da normal işbaşıyla devam edecek. İyi bayramlar dileriz."
+
+That's 4 sentences.
+
+Check: Are there any extra punctuation that might be considered separate sentences? The first sentence ends with a period. Good. Second ends with period. Third ends with period. Fourth ends with period. So total 4 sentences.
+
+Thus answer meets constraints.
+
+But we need to ensure the content includes "tatil 28 Mayıs’ta başlıyor, 2 Haziran’da işbaşı yapılacak." The second sentence says "Tatil 28 Mayıs’ta başlayacak ve tüm ekip için izin verilmiştir." That's okay. Third says "İşlerimiz 2 Haziran’da normal işbaşıyla devam edecek." Good.
+
+Thus final answer.
+
+Potential improvements: maybe mention "Mutlu Gıda" explicitly. Already done.
+
+Thus final output: Provide the notice in Turkish.
+
+We must not add extra sentences beyond 5. So keep exactly 4.
+
+Thus final answer:
+
+"Sayın Mutlu Gıda çalışanları, bu bayram döneminde tatil planlaması hakkında bilgi vermek istiyoruz. Tatil 28 Mayıs’ta başlayacak ve tüm ekip için izin verilmiştir. İşlerimiz 2 Haziran’da normal işbaşıyla devam edecek. İyi bayramlar dileriz."
+
+Check: The phrase "İyi bayramlar dileriz." appears as the last sentence.
+
+Thus done.
+
+Potential nuance: The user said "duyuru 4 ile 5 cümle arasında olsun ve “İyi bayramlar dileriz.” ifadesiyle bitsin." Means the notice must end with that phrase? Or at least contain it. Usually they want the final sentence to be that phrase. We have that.
+
+Thus answer is correct.
+
+Now produce final.

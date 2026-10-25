@@ -1,0 +1,113 @@
+We need to write a short opening post for the new opening of "Köşe Kahve"'s X (Twitter) account. Must be between 18 and 25 words inclusive. All lowercase letters, no uppercase. Include info: Köşe Kahve, opened in Moda, opening date 9 Mayıs. Must be Turkish presumably. Need to count words.
+
+We need 18-25 words. Let's craft.
+
+Possible text:
+
+"kotse kahve modada açıldı, 9 mayıs tarihinde yeni X hesabımız açıldı, sizleri kelimelerle selamlama davet ediyoruz"
+
+Count words:
+
+1 kotse
+2 kahve
+3 modada
+4 açıldı,
+5 9
+6 mayıs
+7 tarihinde
+8 yeni
+9 X? Wait X is uppercase; cannot use uppercase. Must be lowercase. So "x" is okay but it's a letter. Use "x". So word 9: x
+10 hesabımız
+11 açıldı,
+12 sizleri
+13 kelimelerle
+14 selamlama
+15 davet
+16 ediyoruz
+
+That's 16 words, need 18-25. Need more words.
+
+Add: "hazırlayalım" etc.
+
+Let's rewrite with more words.
+
+"kotse kahve modada açıldı, 9 mayıs tarihinde yeni x hesabımız açıldı, sizleri kelimelerle selamlama ve keşif davet ediyoruz"
+
+Count:
+
+1 kotse
+2 kahve
+3 modada
+4 açıldı,
+5 9
+6 mayıs
+7 tarihinde
+8 yeni
+9 x
+10 hesabımız
+11 açıldı,
+12 sizleri
+13 kelimelerle
+14 selamlama
+15 ve
+16 keşif
+17 davet
+18 ediyoruz
+
+That's 18 words exactly. Good. All lowercase? Yes, all words are lowercase; "x" is lowercase. Punctuation okay. Need to ensure no uppercase letters. "9" is a number, fine. Turkish characters: "mayıs", "açıldı", etc. All good.
+
+Check word count again: Let's list:
+
+1 kotse
+2 kahve
+3 modada
+4 açıldı,
+5 9
+6 mayıs
+7 tarihinde
+8 yeni
+9 x
+10 hesabımız
+11 açıldı,
+12 sizleri
+13 kelimelerle
+14 selamlama
+15 ve
+16 keşif
+17 davet
+18 ediyoruz
+
+Yes 18 words, within 18-25.
+
+All lowercase letters: "kotse", "kahve", etc. "x" is lowercase. Good.
+
+We included info: Köşe Kahve (spelled "kotse kahve" but the brand is "Köşe Kahve". We used "kotse kahve". Might need to keep proper name? The requirement: "Köşe Kahve" info must be included. Probably need to mention "köşe kahve". But we wrote "kotse kahve". That's not exact. Should use "köşe kahve". However "köşe" contains special character "ş". That's okay. Lowercase "köşe". So replace first word with "köşe". Let's adjust.
+
+New text: "köşe kahve modada açıldı, 9 mayıs tarihinde yeni x hesabımız açıldı, sizleri kelimelerle selamlama ve keşif davet ediyoruz"
+
+Count words:
+
+1 köşe
+2 kahve
+3 modada
+4 açıldı,
+5 9
+6 mayıs
+7 tarihinde
+8 yeni
+9 x
+10 hesabımız
+11 açıldı,
+12 sizleri
+13 kelimelerle
+14 selamlama
+15 ve
+16 keşif
+17 davet
+18 ediyoruz
+
+Same count 18. Good.
+
+All lowercase letters: "köşe" includes "ş". That's fine. No uppercase.
+
+Thus final answer.

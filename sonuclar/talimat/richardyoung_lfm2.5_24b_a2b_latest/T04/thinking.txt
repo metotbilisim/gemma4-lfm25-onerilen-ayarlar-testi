@@ -1,0 +1,89 @@
+We need to produce a proposal text for monthly computer maintenance service offered to "Kuzey Bilişim"in Aydın Muhasebe office. Must list the service features in exactly 4 bullet points, each on its own line, starting with a bullet marker (dash -, asterisk *, bullet •, or number 1.). Probably choose dash or bullet. Use bullet points.
+
+We must include the words "ucuz", "indirim", and "fiyat". Must use them possibly multiple times. The text must contain these words (including any added forms). So we need to embed "ucuz", "indirim", "fiyat". Ensure they appear exactly as given? The instruction: “ucuz”, “indirim” ve “fiyat” sözcüklerini (ek almış hâlleri dâhil) kullanma. Means we must use these words (including any added forms). So we need to include "ucuz", "indirim", "fiyat". We'll embed them.
+
+We need to include the following info: office name Aydın Muhasebe, 8 computers, monthly fee 850 TL.
+
+Thus the proposal text should have a heading maybe, then bullet list of 4 features. Then possibly other details like contact info.
+
+But must ensure bullet list exactly 4 items, each starting with a bullet marker. Use dash? Let's use dash "-". So:
+
+- 8 bilgisayar için düzenli bakım hizmeti
+- Uygun ve ucuz fiyatlandırma
+- İndirim imkânları ile maliyet kontrolü
+- Ayda bir rapor ve teknik destek
+
+But need to embed "fiyat" somewhere. Already have "ucuz fiyatlandırma". That includes "ucuz" and "fiyat". Also need "indirim". Already have "İndirim imkânları". Good.
+
+Now ensure each bullet is separate line.
+
+We also need to mention the monthly fee 850 TL. Could be in a separate paragraph after bullet list, or within bullet. But must include the info: büro adı Aydın Muhasebe, 8 bilgisayar, aylık 850 TL. So we can write a short intro: "Kuzey Bilişim Aydın Muhasebe ofisine sunulacak hizmet..." Then bullet list.
+
+We need to keep the bullet list exactly 4 items. No extra bullet points.
+
+After bullet list, we can add a concluding sentence with details: "Aylık bakım ücreti 850 TL olarak belirlenmiştir." That includes "fiyat"? Already used. But okay.
+
+Make sure not to accidentally create extra bullet lines. Use plain text for other parts.
+
+Thus structure:
+
+Paragraph intro.
+
+Bullet list (4 items).
+
+Paragraph with details: office name, number of computers, monthly fee.
+
+Maybe also mention "indirim" again? Already used.
+
+Check that we used "ucuz", "indirim", "fiyat". Yes.
+
+Now bullet markers: dash "-". Ensure each bullet line starts with "- ".
+
+Thus:
+
+Kuzey Bilişim Aydın Muhasebe ofisine aylık bilgisayar bakım hizmeti teklifi:
+
+- 8 bilgisayar için düzenli ve kapsamlı bakım
+- Ucuz ve şeffaf fiyatlandırma
+- İndirim fırsatları ile maliyet verimliliği
+- Ayda bir teknik rapor ve 24/7 destek
+
+Aylık bakım ücreti 850 TL olarak belirlenmiştir. Bu hizmet, ofisinizin sistemlerinin sorunsuz çalışmasını sağlayacak ve maliyet kontrolünü kolaylaştıracaktır.
+
+Check bullet count: 4 items.
+
+We used "ucuz", "fiyatlandırma" includes "fiyat". Good. "indirim" present. "fiyat" appears as part of "fiyatlandırma"? The word "fiyat" is inside "fiyatlandırma". But the requirement says use the words "ucuz", "indirim" and "fiyat" (including any added forms). So we need the exact word "fiyat". Might be safer to include "fiyat" as a separate word. Let's add "fiyat" explicitly: In bullet 2 we have "Ucuz ve şeffaf fiyatlandırma". That includes "fiyat". But not exactly "fiyat". Could add "fiyat" in the sentence: "Ucuz ve şeffaf bir fiyat". But bullet must start with dash, then content. We can include "fiyat" word.
+
+Bullet 2: "- Ucuz ve şeffaf bir fiyat". That includes "ucuz" and "fiyat". Good.
+
+But we need to keep meaning. Let's adjust bullet list:
+
+- 8 bilgisayar için düzenli ve kapsamlı bakım
+- Ucuz ve şeffaf bir fiyat
+- İndirim fırsatları ile maliyet verimliliği
+- Ayda bir teknik rapor ve 24/7 destek
+
+Now bullet 2 includes "ucuz" and "fiyat". Good.
+
+Bullet 3 includes "indirim". Good.
+
+Now we have "fiyat" word. Good.
+
+Now after bullet list, we need to mention the monthly fee 850 TL. Already done.
+
+Thus final text:
+
+Kuzey Bilişim Aydın Muhasebe ofisine aylık bilgisayar bakım hizmeti teklifi:
+
+- 8 bilgisayar için düzenli ve kapsamlı bakım
+- Ucuz ve şeffaf bir fiyat
+- İndirim fırsatları ile maliyet verimliliği
+- Ayda bir teknik rapor ve 24/7 destek
+
+Aylık bakım ücreti 850 TL olarak belirlenmiştir. Bu hizmet, ofisinizin sistemlerinin sorunsuz çalışmasını sağlayacak ve maliyet kontrolünü kolaylaştıracaktır.
+
+Check bullet count: 4. Good.
+
+We used "ucuz", "indirim", "fiyat". Yes.
+
+Thus final answer.

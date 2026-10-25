@@ -1,0 +1,3 @@
+- Çalışma Cumartesi günü 23:00'de başlayacak ve Pazar günü 02:00'de bitecek.  
+- Sistem çalışması sırasında herhangi bir sorun oluşmaz; tüm işlemler güvenli bir şekilde yürütülür.  
+- İşletme süresi boyunca düzenli bakım yapılacak ve aralarında sorunlar tespit edilirse hemen çözümlenir.

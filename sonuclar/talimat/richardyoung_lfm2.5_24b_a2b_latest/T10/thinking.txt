@@ -1,0 +1,33 @@
+We need to write a text for an online store's customers announcing a system operation at night. Must include details in exactly 3 bullet points, each on its own line, starting with a bullet marker (-, *, • or 1.). Use the words "sorun" and "bakım" (including any added forms). So we need to include both words somewhere in the text. Probably mention that there is no problem (sorun) and maintenance (bakım). Must include the details: operation starts Saturday at 23:00, ends Sunday at 02:00.
+
+We need exactly 3 bullet points. Each bullet point must start with a bullet marker. Choose e.g., "-". So lines:
+
+- Çalışma Cumartesi günü 23:00'de başlayacak ve Pazar günü 02:00'de bitecek.
+- Sistem çalışması sırasında herhangi bir **sorun** oluşmaz; tüm işlemler güvenli bir şekilde yürütülür.
+- İşletme süresi boyunca düzenli **bakım** yapılacak ve aralarında sorunlar tespit edilirse hemen çözümlenir.
+
+But need to ensure "sorun" and "bakım" appear. We have them. Also need to keep exactly 3 bullet points, each on its own line. No extra lines. The bullet points must be separate lines.
+
+Check: Are we allowed to have multiple sentences per bullet? Probably okay. But ensure the bullet points are exactly three.
+
+First bullet: includes start and end times. Good.
+
+Second bullet: mention "sorun". Use "sorun" word. Could be "herhangi bir sorun oluşmaz". That's fine.
+
+Third bullet: include "bakım". Also mention maintenance.
+
+Make sure we don't accidentally add extra bullet markers or blank lines.
+
+Thus final output:
+
+- Çalışma Cumartesi günü 23:00'de başlayacak ve Pazar günü 02:00'de bitecek.
+- Sistem çalışması sırasında herhangi bir sorun oluşmaz; tüm işlemler güvenli bir şekilde yürütülür.
+- İşletme süresi boyunca düzenli bakım yapılacak ve aralarında sorunlar tespit edilirse hemen çözümlenir.
+
+But note: third bullet includes "sorun" again, but that's okay. The requirement is to use the words "sorun" and "bakım". We have both. However we used "sorun" twice; fine.
+
+Check bullet markers: using "-". Good.
+
+Make sure each bullet is on its own line. No extra lines before or after? Probably okay to have newline at end.
+
+Thus final answer.

@@ -1,0 +1,220 @@
+We need to write an email in Turkish (since the prompt is Turkish) from "Mavi Tur Seyahat" (presumably a travel agency) to corporate client Selin Aras. It should be a short meeting request email. Length: between 60 and 80 words inclusive. Must contain a question, and the last character of the text must be a question mark (?). So the final character is a question mark.
+
+We need to include the meeting date: Perşembe, 14:30. So we need to mention that the meeting day is Thursday (Perşembe) at 14:30.
+
+We need to keep word count between 60 and 80 words. Let's aim for about 70 words.
+
+We need to ensure the email includes a question somewhere (e.g., "Ne dersiniz?" or "Nasıl olabiliriz?").
+
+The last character must be a question mark, so the final sentence ends with a question.
+
+Structure: greeting, introduction, request meeting, details, question, closing maybe but must end with question mark. Since the last character is a question mark, we cannot have any text after that. So the email must end with a question. Possibly "Lütfen yanıtınızı bekliyorum." but that ends with period. So we need to end with a question. For example: "Bu konuyu görüşmek için uygun olupinizden memnuniyetle bahsederim, ne dersiniz?" That ends with ?. But we need the final character to be ?. So the email ends with a question.
+
+Word count: Let's draft and count.
+
+Draft:
+
+"Değerli Selin Aras,
+
+Mavi Tur Seyahat olarak kurumsal müşterilerimizle ilgili bir kısa toplantı talebinde bulunmak istiyoruz. Toplantı günü Perşembe, saat 14:30 olarak planlanmıştır. Bu oturumda seyahat planları ve hizmetler hakkında görüşme yapmak istiyoruz. Lütfen katılımınızın onayınızı ve önerilerinizi paylaştığınız için teşekkür ederiz; görüşmeyi gerçekleştirmek için uygun olduğunuz zamanı belirtir misiniz?
+
+Saygılarımla,
+Mavi Tur Seyahat"
+
+Now count words. Need 60-80 words. Let's count.
+
+We need to count each token separated by spaces. Also note that line breaks may not affect counting but we treat as spaces.
+
+Let's list words:
+
+"Değerli(1) Selin(2) Aras,(3)
+
+Mavi(4) Tur(5) Seyahat(6) olarak(7) kurumsal(8) müşterilerimizle(9) ilgili(10) bir(11) kısa(12) toplantı(13) talebinde(14) bulunmak(15) istiyoruz.(16) Toplantı(17) günü(18) Perşembe,(19) saat(20) 14:30(21) olarak(22) planlanmıştır.(23) Bu(24) oturumda(25) seyahat(26) planları(27) ve(28) hizmetler(29) hakkında(30) görüşme(31) yapmak(32) istiyoruz.(33) Lütfen(34) katılımınızın(35) onayınızı(36) ve(37) önerilerinizi(38) paylaştığınız(39) için(40) teşekkür(41) ederiz;(42) görüşmeyi(43) gerçekleştirmek(44) için(45) uygun(46) olduğunuz(47) zamanı(48) belirttiğiniz(49) bir(50) saat(51) mi?(52) ??? Wait we need to be careful.
+
+Actually after "belirttiğiniz" we wrote "bir saat mi?" That's a question. But we need the final character of the whole email to be a question mark. So we need to end with a question. Let's restructure.
+
+We need to ensure the final punctuation is ?. So maybe we end with "Ne dersiniz?" as the last line.
+
+Thus after the body, we can have a question line: "Nasıl olabiliriz?" That ends with ?. Then no more text.
+
+But we need to keep word count within 60-80.
+
+Let's rewrite email:
+
+"Değerli Selin Aras,
+
+Mavi Tur Seyahat olarak kurumsal müşterilerimizle ilgili bir kısa toplantı talebinde bulunmak istiyoruz. Toplantı günü Perşembe, saat 14:30 olarak planlanmıştır. Bu oturumda seyahat planları ve hizmetler hakkında görüşme yapmak istiyoruz. Katılımınızın onayınızı ve önerilerinizi paylaştığınız için teşekkür ederiz. Görüşmeyi gerçekleştirmek için uygun olduğunuz zamanı belirtir misiniz?
+
+Nasıl olabiliriz?"
+
+Now count words.
+
+We'll count each token separated by spaces, ignoring line breaks.
+
+List:
+
+Değerli(1)
+Selin(2)
+Aras,(3)
+
+Mavi(4)
+Tur(5)
+Seyahat(6)
+olarak(7)
+kurumsal(8)
+müşterilerimizle(9)
+ilgili(10)
+bir(11)
+kısa(12)
+toplantı(13)
+talebinde(14)
+bulunmak(15)
+istiyoruz.(16)
+Toplantı(17)
+günü(18)
+Perşembe,(19)
+saat(20)
+14:30(21)
+olarak(22)
+planlanmıştır.(23)
+Bu(24)
+oturumda(25)
+seyahat(26)
+planları(27)
+ve(28)
+hizmetler(29)
+hakkında(30)
+görüşme(31)
+yapmak(32)
+istiyoruz.(33)
+Katılımınızın(34)
+onayınızı(35)
+ve(36)
+önerilerinizi(37)
+paylaştığınız(38)
+için(39)
+teşekkür(40)
+ederiz.(41)
+Görüşmeyi(42)
+gerçekleştirmek(43)
+için(44)
+uygun(45)
+olduğunuz(46)
+zamanı(47)
+belirtir(48)
+misiniz?(49)
+
+Nasıl(50)
+olabiliriz?(51)
+
+Total words: 51. Need 60-80. So we need to add about 10-20 more words before the final question line (or after but before final question). The final character must be ?. So we can add a sentence before the final question, then end with "Nasıl olabiliriz?" as final line.
+
+We need to increase word count to at least 60. Let's add some extra details: e.g., "Bu toplantının amacı, müşterimizin ihtiyaçlarını daha iyi anlamak ve iş birliklerini güçlendirmek." That adds words.
+
+Add after the previous sentence before the final question.
+
+Let's insert: "Toplantının amacı, müşterimizin ihtiyaçlarını daha iyi anlamak ve iş birliklerini güçlendirmektir."
+
+Now count added words.
+
+Words: Toplantının(1) amacı,(2) müşterimizin(3) ihtiyaçlarını(4) daha(5) iyi(6) anlamak(7) ve(8) iş(9) birliklerini(10) güçlendirmektir.(11)
+
+Add 11 words.
+
+Now total becomes 51 + 11 = 62. Good within range (60-80). Ensure final question still at end.
+
+Now full email:
+
+"Değerli Selin Aras,
+
+Mavi Tur Seyahat olarak kurumsal müşterilerimizle ilgili bir kısa toplantı talebinde bulunmak istiyoruz. Toplantı günü Perşembe, saat 14:30 olarak planlanmıştır. Bu oturumda seyahat planları ve hizmetler hakkında görüşme yapmak istiyoruz. Katılımınızın onayınızı ve önerilerinizi paylaştığınız için teşekkür ederiz. Görüşmeyi gerçekleştirmek için uygun olduğunuz zamanı belirtir misiniz? Toplantının amacı, müşterimizin ihtiyaçlarını daha iyi anlamak ve iş birliklerini güçlendirmektir. Nasıl olabiliriz?"
+
+Now count words again to ensure 60-80.
+
+Let's recount all words.
+
+Line by line:
+
+Değerli(1)
+Selin(2)
+Aras,(3)
+
+Mavi(4)
+Tur(5)
+Seyahat(6)
+olarak(7)
+kurumsal(8)
+müşterilerimizle(9)
+ilgili(10)
+bir(11)
+kısa(12)
+toplantı(13)
+talebinde(14)
+bulunmak(15)
+istiyoruz.(16)
+Toplantı(17)
+günü(18)
+Perşembe,(19)
+saat(20)
+14:30(21)
+olarak(22)
+planlanmıştır.(23)
+Bu(24)
+oturumda(25)
+seyahat(26)
+planları(27)
+ve(28)
+hizmetler(29)
+hakkında(30)
+görüşme(31)
+yapmak(32)
+istiyoruz.(33)
+Katılımınızın(34)
+onayınızı(35)
+ve(36)
+önerilerinizi(37)
+paylaştığınız(38)
+için(39)
+teşekkür(40)
+ederiz.(41)
+Görüşmeyi(42)
+gerçekleştirmek(43)
+için(44)
+uygun(45)
+olduğunuz(46)
+zamanı(47)
+belirtir(48)
+misiniz?(49)
+Toplantının(50)
+amaç,(51)
+müşterimizin(52)
+ihtiyaçlarını(53)
+daha(54)
+iyi(55)
+anlamak(56)
+ve(57)
+iş(58)
+birliklerini(59)
+güçlendirmektir.(60)
+Nasıl(61)
+olabiliriz?(62)
+
+Total 62 words. Good within 60-80.
+
+We have a question: "misiniz?" and final question "Nasıl olabiliriz?" The requirement: "metin 60 ile 80 kelime arasında olsun ve bir soruyla bitsin (metnin son karakteri soru işareti olsun)." Means the text must contain a question, and the last character of the text is a question mark. Our final character is ?. Yes.
+
+We have two questions, fine.
+
+Now ensure email includes meeting date and time: we have "Toplantı günü Perşembe, saat 14:30". Good.
+
+We addressed Selin Aras.
+
+Thus final email ready.
+
+Check that the last character is a question mark: after "Nasıl olabiliriz?" ends with ?. Yes.
+
+Word count 62.
+
+All good.
+
+Now produce final answer.

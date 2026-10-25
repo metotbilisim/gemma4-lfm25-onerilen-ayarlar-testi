@@ -1,0 +1,1 @@
+köşe kahve modada açıldı, 9 mayıs tarihinde yeni x hesabımız açıldı, sizleri kelimelerle selamlama ve keşif davet ediyoruz

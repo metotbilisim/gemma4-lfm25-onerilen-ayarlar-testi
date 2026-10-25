@@ -1,0 +1,232 @@
+We need to produce a proposal for building a website for "Ege Dijital" (the agency name) for "Lezzet Durağı" restaurant. The text must have exactly 3 sections, each with a heading on its own line: "Bölüm 1", "Bölüm 2", "Bölüm 3". The headings must be separate lines. The entire text must be between 120 and 160 words inclusive.
+
+We need to include the following info: restaurant name "Lezzet Durağı", duration 6 weeks, total price 48,000 TL.
+
+We need to write in Turkish presumably (the prompt is Turkish). So we should produce Turkish text.
+
+We need to count words. Must be between 120 and 160 words. Let's aim for about 140 words.
+
+Structure:
+
+Bölüm 1
+... content ...
+
+Bölüm 2
+... content ...
+
+Bölüm 3
+... content ...
+
+Each heading on its own line, then the paragraph(s) after it. The headings themselves count as words? Typically headings are separate lines; they contain words "Bölüm 1". That's two words: "Bölüm" and "1"? Actually "Bölüm 1" is two tokens: "Bölüm" and "1". But we need to count words. We'll need to ensure total word count between 120-160.
+
+We must include the required info: restaurant name Lezzet Durağı, duration 6 weeks (6 hafta), total price 48.000 TL.
+
+We need to mention Ege Dijital as the agency.
+
+Let's draft.
+
+First, headings:
+
+Bölüm 1
+Bölüm 2
+Bölüm 3
+
+Now content.
+
+Paragraph for Bölüm 1: Introduce the project: "Ege Dijital, Lezzet Durağı'nın dijital tanıtım için modern bir web sitesi geliştirmeyi üstleniyor. Bu proje 6 hafta boyunca sürdürülecek ve hedef kitleye etkili bir şekilde ulaşmayı amaçlıyor."
+
+Paragraph for Bölüm 2: Details about design and functionality: "Web sitesi, kullanıcı dostu arayüz, menü sayfası, rezervasyon formu ve mobil uyumluluk içereri barındıracak. Tasarım, restoranın lezzetli atmosferini yansıtacak renkler ve fotoğraflarla zenginleştirilecek."
+
+Paragraph for Bölüm 3: Budget and timeline: "Projenin toplam maliyeti 48.000 TL olarak belirlenmiş ve 6 haftalık süre içinde tamamlanacak. Ege Dijital, verimli çalışma süreciyle zamanı doğru şekilde yöneterek kaliteyi koruyacak."
+
+Now count words.
+
+We need to count each word separated by spaces. Let's write the full text and count.
+
+Full draft:
+
+Bölüm 1
+Ege Dijital, Lezzet Durağı'nın dijital tanıtım için modern bir web sitesi geliştirmeyi üstleniyor. Bu proje 6 hafta boyunca sürdürülecek ve hedef kitleye etkili bir şekilde ulaşmayı amaçlıyor.
+
+Bölüm 2
+Web sitesi, kullanıcı dostu arayüz, menü sayfası, rezervasyon formu ve mobil uyumluluk içereri barındıracak. Tasarım, restoranın lezzetli atmosferini yansıtacak renkler ve fotoğraflarla zenginleştirilecek.
+
+Bölüm 3
+Projenin toplam maliyeti 48.000 TL olarak belirlenmiş ve 6 haftalık süre içinde tamamlanacak. Ege Dijital, verimli çalışma süreciyle zamanı doğru şekilde yöneterek kaliteyi koruyacak.
+
+Now count words.
+
+We'll count manually.
+
+Line by line.
+
+First heading: "Bölüm" (1) "1" (2). So 2 words.
+
+Paragraph after Bölüm 1:
+
+"Ege" (3) "Dijital," (4) "Lezzet" (5) "Durağı'nın" (6) "dijital" (7) "tanıtım" (8) "için" (9) "modern" (10) "bir" (11) "web" (12) "site" (13) "geliştirmeyi" (14) "üstleniyor." (15) "Bu" (16) "proje" (17) "6" (18) "hafta" (19) "boyunca" (20) "sürdürülecek" (21) "ve" (22) "hedef" (23) "kitleye" (24) "etkili" (25) "bir" (26) "şekilde" (27) "ulaşmayı" (28) "amaçlıyor." (29)
+
+Next heading: "Bölüm" (30) "2" (31)
+
+Paragraph:
+
+"Web" (32) "site," (33) "kullanıcı" (34) "dostu" (35) "arayüz," (36) "menü" (37) "sayfası," (38) "rezervasyon" (39) "formu" (40) "ve" (41) "mobil" (42) "uyumluluk" (43) "içeri" (44) "barındıracak." (45) "Tasarım," (46) "restoranın" (47) "lezzletli" (48) "atmosferini" (49) "yansıtacak" (50) "renkler" (51) "ve" (52) " fotoğraflarla" (53) "zenginleştirilecek." (54)
+
+Next heading: "Bölüm" (55) "3" (56)
+
+Paragraph:
+
+"Projenin" (57) "toplam" (58) "maliyet" (59) "48.000" (60) "TL" (61) "olarak" (62) "belirlenmiş" (63) "ve" (64) "6" (65) "haftalık" (66) "süre" (67) "içinde" (68) "tamamlanacak." (69) "Ege" (70) "Dijital," (71) "verimli" (72) "çalışma" (73) "süreciyle" (74) "zamanı" (75) "doğru" (76) "şeklinde" (77) "yöneterek" (78) "kaliteyi" (79) "koruyacak." (80)
+
+Total words: 80. That's too low; we need 120-160 words.
+
+We need to add more content, but keep headings separate lines. We can expand each paragraph with more sentences.
+
+Goal: total words between 120 and 160. Currently 80. Need about 40-80 more words.
+
+Add more details in each section.
+
+We must keep headings unchanged (Bölüm 1, Bölüm 2, Bölüm 3). We can add extra sentences after each heading.
+
+Let's expand.
+
+Paragraph for Bölüm 1: Add sentences about brand identity, SEO, social media integration.
+
+Paragraph for Bölüm 2: Add details about CMS, maintenance, analytics.
+
+Paragraph for Bölüm 3: Add about post-launch support, testing, timeline specifics.
+
+We need to keep total words within limit.
+
+Let's rewrite with expansions.
+
+First heading: "Bölüm 1"
+
+Content:
+
+"Ege Dijital, Lezzet Durağı'nın dijital tanıtım için modern bir web sitesi geliştirmeyi üstleniyor. Bu proje 6 hafta boyunca sürdürülecek ve hedef kitleye etkili bir şekilde ulaşmayı amaçlıyor. Web sitesi, markanın kimliğini yansıtan renkler ve tipik menüleriyle tanıtım sağlar. Ayrıca SEO stratejileri ile arama motorlarında görünürlüğü artırıcı olacak."
+
+Now count words for this paragraph.
+
+We'll count after heading.
+
+Heading: "Bölüm" (1) "1" (2)
+
+Paragraph:
+
+"Ege" (3) "Dijital," (4) "Lezzet" (5) "Durağı'nın" (6) "dijital" (7) "tanıtım" (8) "için" (9) "modern" (10) "bir" (11) "web" (12) "site" (13) "geliştirmeyi" (14) "üstleniyor." (15) "Bu" (16) "proje" (17) "6" (18) "hafta" (19) "boyunca" (20) "sürdürülecek" (21) "ve" (22) "hedef" (23) "kitleye" (24) "etkili" (25) "bir" (26) "şekilde" (27) "ulaşmayı" (28) "amaçlıyor." (29) "Web" (30) "site," (31) "markanın" (32) "kimliğini" (33) "yansıtan" (34) "renkler" (35) "ve" (36) "tipik" (37) "menüleriyle" (38) "tanıtım" (39) "sağlar." (40) "Ayrıca" (41) "SEO" (42) "stratejileri" (43) "ile" (44) "arama" (45) "motorlarında" (46) "görünürlüğü" (47) "artırıcı" (48) "olacak." (49)
+
+So Bölüm 1 total words: heading 2 + paragraph 49 = 51.
+
+Now Bölüm 2:
+
+Heading: "Bölüm" (1) "2" (2)
+
+Paragraph:
+
+"Web sitesi, kullanıcı dostu arayüz, menü sayfası, rezervasyon formu ve mobil uyumluluk içereri barındıracak. Tasarım, restoranın lezzetli atmosferini yansıtacak renkler ve fotoğraflarla zenginleştirilecek. Ayrıca bir içerik yönetim sistemi entegrasyonu ile ek ekipmanların kolayla güncellenmesini sağlayacak. Analitik araçlar sayesinde performans ölçümü ve kullanıcı davranışları izlenecek."
+
+Now count.
+
+Heading words: 2.
+
+Paragraph words:
+
+"Web" (3) "site," (4) "kullanıcı" (5) "dostu" (6) "arayüz," (7) "menü" (8) "sayfası," (9) "rezervasyon" (10) "formu" (11) "ve" (12) "mobil" (13) "uyumluluk" (14) "içeri" (15) "barındıracak." (16) "Tasarım," (17) "restoranın" (18) "lezzletli" (19) "atmosferini" (20) "yansıtacak" (21) "renkler" (22) "ve" (23) " fotoğraflarla" (24) "zenginleştirilecek." (25) "Ayrıca" (26) "bir" (27) "içerik" (28) "yönetim" (29) "sistemi" (30) "entegrasyonu" (31) "ile" (32) "ek" (33) "ekipmanların" (34) "kolayla" (35) "güncellenmesini" (36) "sağlayacak." (37) "Analitik" (38) "araçlar" (39) "tamamıyla" (40) "performans" (41) "ölçümü" (42) "ve" (43) "kullanıcı" (44) "davranışları" (45) "izlenecek." (46)
+
+So Bölüm 2 total words: heading 2 + paragraph 46 = 48.
+
+Now Bölüm 3:
+
+Heading: "Bölüm" (1) "3" (2)
+
+Paragraph:
+
+"Projenin toplam maliyeti 48.000 TL olarak belirlenmiş ve 6 haftalık süre içinde tamamlanacak. Ege Dijital, verimli çalışma süreciyle zamanı doğru şekilde yöneterek kaliteyi koruyacak. Proje sonunda test aşamasıyla kalite kontrolü yapılacak ve son düzeltmeler gerçekleştirilecek. Ayrıca 3 ay boyunca teknik destek sağlanacak."
+
+Count.
+
+Heading: 2 words.
+
+Paragraph:
+
+"Projenin" (3) "toplam" (4) "maliyet" (5) "48.000" (6) "TL" (7) "olarak" (8) "belirlenmiş" (9) "ve" (10) "6" (11) "haftalık" (12) "süre" (13) "içinde" (14) "tamamlanacak." (15) "Ege" (16) "Dijital," (17) "verimli" (18) "çalışma" (19) "süreciyle" (20) "zamanı" (21) "doğru" (22) "şeklinde" (23) "yöneterek" (24) "kaliteyi" (25) "koruyacak." (26) "Proje" (27) "sonunda" (28) "test" (29) "aşamasıyla" (30) "kalite" (31) "kontrolü" (32) "yapılacak" (33) "ve" (34) "son" (35) "düzeltmeler" (36) "gerçekleştirilecek." (37) "Ayrıca" (38) "3" (39) "ay" (40) "boyunca" (41) "teknik" (42) "destek" (43) "sağlanacak." (44)
+
+So Bölüm 3 total words: heading 2 + paragraph 44 = 46.
+
+Now total words overall: Bölüm 1 (51) + Bölüm 2 (48) + Bölüm 3 (46) = 145 words.
+
+Check: 51+48=99, +46=145. That's within 120-160. Good.
+
+We need to ensure the headings are on separate lines and each heading is exactly "Bölüm 1", "Bölüm 2", "Bölüm 3". The headings must be on their own line. We have that.
+
+Now verify required info: restaurant name Lezzet Durağı appears in Bölüm 1 paragraph. Yes: "Lezzet Durağı'nın". Good.
+
+Duration 6 weeks: we mention "6 hafta boyunca sürdürülecek" and also "6 haftalık süre içinde". So yes.
+
+Total price 48.000 TL: we have "toplam maliyet 48.000 TL". Good.
+
+Agency name Ege Dijital appears multiple times.
+
+Now check word count again to ensure within range. We counted 145 words. Let's recount carefully, ensuring no missing words or punctuation issues that could affect counting. Usually word count counts tokens separated by spaces. Our headings have "Bölüm" and "1". That's fine.
+
+Potential issues: hyphenated words? Not present. Numbers like "48.000" considered one token. Good.
+
+Now ensure total words between 120-160 inclusive. Yes 145.
+
+Now ensure the text is exactly three sections, each heading separate line. We have headings and paragraphs.
+
+We need to ensure no extra blank lines? The spec didn't forbid blank lines, but we can keep a blank line after each heading? Usually not needed. But we must keep headings on separate lines. If we put a blank line between heading and paragraph, that's okay but might be considered separate line. However the heading is still on its own line. It's fine.
+
+But to be safe, we can place heading line, then paragraph directly after (maybe a space). But it's okay.
+
+Now produce final output:
+
+Bölüm 1
+Ege Dijital, Lezzet Durağı'nın dijital tanıtım için modern bir web sitesi geliştirmeyi üstleniyor. Bu proje 6 hafta boyunca sürdürülecek ve hedef kitleye etkili bir şekilde ulaşmayı amaçlıyor. Web sitesi, markanın kimliğini yansıtan renkler ve tipik menüleriyle tanıtım sağlar. Ayrıca SEO stratejileri ile arama motorlarında görünürlüğü artırıcı olacak.
+
+Bölüm 2
+Web sitesi, kullanıcı dostu arayüz, menü sayfası, rezervasyon formu ve mobil uyumluluk içereri barındıracak. Tasarım, restoranın lezzetli atmosferini yansıtacak renkler ve fotoğraflarla zenginleştirilecek. Ayrıca bir içerik yönetim sistemi entegrasyonu ile ek ekipmanların kolayla güncellenmesini sağlayacak. Analitik araçlar sayesinde performans ölçümü ve kullanıcı davranışları izlenecek.
+
+Bölüm 3
+Projenin toplam maliyeti 48.000 TL olarak belirlenmiş ve 6 haftalık süre içinde tamamlanacak. Ege Dijital, verimli çalışma süreciyle zamanı doğru şekilde yöneterek kaliteyi koruyacak. Proje sonunda test aşamasıyla kalite kontrolü yapılacak ve son düzeltilmeler gerçekleştirilecek. Ayrıca 3 ay boyunca teknik destek sağlanacak.
+
+Now count words again after final formatting. Let's recount quickly to ensure no accidental changes.
+
+We'll recount each section.
+
+Bölüm 1 heading: "Bölüm" (1) "1" (2)
+
+Paragraph:
+
+"Ege" (3) "Dijital," (4) "Lezzet" (5) "Durağı'nın" (6) "dijital" (7) "tanıtım" (8) "için" (9) "modern" (10) "bir" (11) "web" (12) "site" (13) "geliştirmeyi" (14) "üstleniyor." (15) "Bu" (16) "proje" (17) "6" (18) "hafta" (19) "boyunca" (20) "sürdürülecek" (21) "ve" (22) "hedef" (23) "kitleye" (24) "etkili" (25) "bir" (26) "şekilde" (27) "ulaşmayı" (28) "amaçlıyor." (29) "Web" (30) "site," (31) "markanın" (32) "kimliğini" (33) "yansıtan" (34) "renkler" (35) "ve" (36) "tipik" (37) "menüleriyle" (38) "tanıtım" (39) "sağlar." (40) "Ayrıca" (41) "SEO" (42) "stratejileri" (43) "ile" (44) "arama" (45) "motorlarında" (46) "görünürlüğü" (47) "artırıcı" (48) "olacak." (49)
+
+So Bölüm 1 total = 2+49=51.
+
+Bölüm 2 heading: "Bölüm" (1) "2" (2)
+
+Paragraph:
+
+"Web" (3) "site," (4) "kullanıcı" (5) "dostu" (6) "arayüz," (7) "menü" (8) "sayfası," (9) "rezervasyon" (10) "formu" (11) "ve" (12) "mobil" (13) "uyumluluk" (14) "içeri" (15) "barındıracak." (16) "Tasarım," (17) "restoranın" (18) "lezzletli" (19) "atmosferini" (20) "yansıtacak" (21) "renkler" (22) "ve" (23) " fotoğraflarla" (24) "zenginleştirilecek." (25) "Ayrıca" (26) "bir" (27) "içerik" (28) "yönetim" (29) "sistemi" (30) "entegrasyonu" (31) "ile" (32) "ek" (33) "ekipmanların" (34) "kolayla" (35) "güncellenmesini" (36) "sağlayacak." (37) "Analitik" (38) "araçlar" (39) "tamamıyla" (40) "performans" (41) "ölçümü" (42) "ve" (43) "kullanıcı" (44) "davranışları" (45) "izlenecek." (46)
+
+Bölüm 2 total = 2+46=48.
+
+Bölüm 3 heading: "Bölüm" (1) "3" (2)
+
+Paragraph:
+
+"Projenin" (3) "toplam" (4) "maliyet" (5) "48.000" (6) "TL" (7) "olarak" (8) "belirlenmiş" (9) "ve" (10) "6" (11) "haftalık" (12) "süre" (13) "içinde" (14) "tamamlanacak." (15) "Ege" (16) "Dijital," (17) "verimli" (18) "çalışma" (19) "süreciyle" (20) "zamanı" (21) "doğru" (22) "şekinde" (23) "yöneterek" (24) "kaliteyi" (25) "koruyacak." (26) "Proje" (27) "sonunda" (28) "test" (29) "aşamasıyla" (30) "kalite" (31) "kontrolü" (32) "yapılacak" (33) "ve" (34) "son" (35) "düzeltmeler" (36) "gerçekleştirilecek." (37) "Ayrıca" (38) "3" (39) "ay" (40) "boyunca" (41) "teknik" (42) "destek" (43) "sağlanacak." (44)
+
+Bölüm 3 total = 2+44=46.
+
+Overall total = 51+48+46 = 145. Good.
+
+Thus final text meets requirements.
+
+Check that the headings are exactly "Bölüm 1", "Bölüm 2", "Bölüm 3". Yes.
+
+Now ensure the text is between 120-160 words: 145, okay.
+
+All required info present.
+
+Thus produce final answer.

@@ -1,0 +1,56 @@
+We need to produce a summary of 3-5 sentences, in all caps (BÜYÜK HARFLERLE). Must include the budget amount, city, and date in the summary. The note says: "Pazarlama bütçesi gelecek çeyrekte 250.000 TL ile sabit kalacak. Yeni broşür tasarımı onaylandı. Web sitesindeki form hataları bu hafta giderilecek. Fuar katılımı için İzmir’deki tarih 17 Mart olarak belirlendi."
+
+We need to produce a summary in Turkish presumably, but all caps. Must include the budget amount (250.000 TL), city (İzmir), and date (17 Mart). Also mention that the marketing budget is fixed next quarter, new brochure design approved, website form errors will be fixed this week, and the fair participation date in Izmir set to 17 March.
+
+We need 3-5 sentences. All caps. So each sentence ends with a period. Must be uppercase letters only (including numbers? Numbers are okay). But we must ensure no lowercase letters appear. So we need to write everything in uppercase letters: "Pazarlama bütçesi" -> "PAZARMA BÜDÇE..." but Turkish characters like "İ" and "Ç"? Uppercase Turkish letters: İ, Ç, Ş, Ö, Ü. In uppercase they are fine. But we must ensure no lowercase letters appear. So we need to convert all letters to uppercase. For example: "PAZARMA BÜDÇE GELEK ÇEYREKTE 250.000 TL İLE SABİT KALACAK." That's okay.
+
+We need to include city: İZMİR. Date: 17 MART (or 17 MART). The date is 17 March. So "17 MART" or "17 MART'TA". We'll embed.
+
+We need 3-5 sentences. Let's aim for 4 sentences.
+
+Sentence 1: "PAZARMA BÜDÇE GELEK ÇEYREKTE 250.000 TL İLE SABİT KALACAK." (Marketing budget fixed next quarter.)
+
+Sentence 2: "YENİ BROŞÜR TASARIMI ONAYLANDI." (New brochure design approved.)
+
+Sentence 3: "WEB SİTESİNDeki FORM HATALARI BÜYÜK HARFLERLE GİDERİLECEK." Actually we need to keep uppercase. "WEB SİTESİNDeki" includes lowercase "i"? But we must uppercase all letters: "WEB SİTESİNDİKI FORM HATALARI BÜYÜK HARFLERLE GİDERİLECEK." However "SİTESİNDİKI" includes "İ". That's okay. But we need to ensure no lowercase letters. So "WEB SİTESİNDİKI FORM HATALARI BÜYÜK HARFLERLE GİDERİLECEK."
+
+But "FORM" is uppercase, fine.
+
+Sentence 4: "FUAR KATILIMI İÇİN İZMİR'DEKI TARIH 17 MART OLAYAN." Actually we need to embed date. So "FUAR KATILIMI İÇİN İZMİR'DEKI TARIH 17 MART BELİRLENDİ." Or "FUAR KATILIMI İZMİR'DE 17 MART TARIHİYLE PLANLANDI." But we need to mention the date. Let's do: "FUAR KATILIMI İZMİR'DE 17 MART OLAYINDA SAKLANACAK."
+
+But we need to keep uppercase letters only. So "FUAR KATILIMI İZMİR'DE 17 MART OLAYINDA SAKLANACAK." That's okay.
+
+We need 3-5 sentences, all caps. Let's produce 4 sentences.
+
+Check each sentence for lowercase letters: Must be uppercase letters only (including punctuation). Turkish uppercase letters: A-Z, Ç, Ğ, İ, K, L, M, N, O, Ö, R, S, Ş, T, U, V, Y, Z. Also numbers and punctuation. So we must avoid any lowercase letters like "i" or "a". So we need to ensure all alphabetic characters are uppercase.
+
+We'll write:
+
+1. "PAZARMA BÜDÇE GELEK ÇEYREKTE 250.000 TL İLE SABİT KALACAK."
+2. "YENİ BROŞÜR TASARIMI ONAYLANDI."
+3. "WEB SİTESİNDİKI FORM HATALARI BÜYÜK HARFLERLE GİDERİLECEK."
+4. "FUAR KATILIMI İZMİR'DE 17 MART OLAYINDA SAKLANACAK."
+
+Check uppercase: All letters are uppercase. "SİTESİNDİKI" includes "İ". Good. "FORM" uppercase. "HATALARI" uppercase. "BÜYÜK" uppercase. "HARFLERLE" uppercase. "GİDERİLECEK" uppercase. "FUAR" uppercase. "KATILIMI" uppercase. "İZMİR'DE" uppercase with apostrophe. "17 MART OLAYINDA SAKLANACAK." Good.
+
+We have included budget amount (250.000 TL), city (İZMİR), date (17 MART). The summary is 4 sentences, within 3-5.
+
+All caps? Yes.
+
+Potential issues: The apostrophe in "İZMİR'DE" is okay. The numbers are fine.
+
+Thus final answer: Provide the four sentences in uppercase.
+
+We must ensure no lowercase letters appear anywhere. Let's double-check each word:
+
+Sentence 1: PAZARMA (uppercase) BÜDÇE (uppercase) GELEK (uppercase) ÇEYREKTE (uppercase) 250.000 (numbers) TL (uppercase) İLE (uppercase) SABİT (uppercase) KALACAK (uppercase). Good.
+
+Sentence 2: YENİ (uppercase) BROŞÜR (uppercase) TASARIMI (uppercase) ONAYLANDI (uppercase). Good.
+
+Sentence 3: WEB (uppercase) SİTESİNDİKI (uppercase) FORM (uppercase) HATALARI (uppercase) BÜYÜK (uppercase) HARFLERLE (uppercase) GİDERİLECEK (uppercase). Good.
+
+Sentence 4: FUAR (uppercase) KATILIMI (uppercase) İZMİR'DE (uppercase) 17 (numbers) MART (uppercase) OLAYINDA (uppercase) SAKLANACAK (uppercase). Good.
+
+All uppercase letters. No lowercase.
+
+Thus final answer.

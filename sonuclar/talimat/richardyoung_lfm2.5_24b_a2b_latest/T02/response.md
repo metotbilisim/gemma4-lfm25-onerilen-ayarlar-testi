@@ -1,0 +1,3 @@
+Değerli Selin Aras,
+
+Mavi Tur Seyahat olarak kurumsal müşterilerimizle ilgili bir kısa toplantı talebinde bulunmak istiyoruz. Toplantı günü Perşembe, saat 14:30 olarak planlanmıştır. Bu oturumda seyahat planları ve hizmetler hakkında görüşme yapmak istiyoruz. Katılımınızın onayınızı ve önerilerinizi paylaştığınız için teşekkür ederiz. Görüşmeyi gerçekleştirmek için uygun olduğunuz zamanı belirtir misiniz? Toplantının amacı, müşterimizin ihtiyaçlarını daha iyi anlamak ve iş birliklerini güçlendirmektir. Nasıl olabiliriz?
